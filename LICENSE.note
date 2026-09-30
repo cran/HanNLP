@@ -1,0 +1,16 @@
+HanNLP additionally bundles third-party code and data. Their respective
+copyright holders and licenses are recorded in inst/COPYRIGHTS and are
+summarized below.
+
+1. HanNanum-derived morphological analysis backend (C sources) and the
+   HanNanum runtime dictionary and statistical data.
+   Copyright: 2010, 2011 Semantic Web Research Center, KAIST, and
+   respective contributors.
+   License: GNU General Public License, version 3 or later, as distributed
+   with the JHanNanum materials.
+
+2. HanNLP's native glue code and string helpers are distributed under the
+   package license, GNU General Public License, version 3 or later.
+
+The original copyright and license notices are retained in the bundled
+source and data files.

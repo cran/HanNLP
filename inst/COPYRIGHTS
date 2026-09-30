@@ -1,0 +1,17 @@
+HanNLP bundles third-party code and data used by the Korean morphological
+analysis backend and dictionary utilities.
+
+JHanNanum / HanNanum-derived C backend
+Copyright: 2010, 2011 Semantic Web Research Center, KAIST
+License: GNU General Public License, version 3 or later
+Location: src/modules/hannanum/lib/hannanum
+The original copyright and license notices are retained in the bundled source
+files.
+
+HanNanum runtime dictionary and statistical data
+Copyright: Semantic Web Research Center, KAIST and respective contributors
+License: GNU General Public License, version 3 or later, as distributed with
+the JHanNanum materials. The upstream JHanNanum distribution states that
+JHanNanum is distributed under GPLv3 and includes resources and configuration
+files as part of the distribution.
+Location: inst/modules/hannanum/inst/hannanum-data
